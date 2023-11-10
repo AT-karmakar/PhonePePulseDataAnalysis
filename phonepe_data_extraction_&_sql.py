@@ -291,7 +291,7 @@ d1["States"] = d1["States"].map(states_new_name)
 conn = psycopg2.connect(
     dbname="Phone_Pe",
     user="postgres",
-    password="dinhata",
+    password="yourPassword",
     host="localhost",
     port="5432"
 )
@@ -333,7 +333,7 @@ print("aggregated_transaction created and data inserted successfully in SQL!")
 conn = psycopg2.connect(
     dbname="Phone_Pe",
     user="postgres",
-    password="dinhata",
+    password="yourPassword",
     host="localhost",
     port="5432"
 )
@@ -375,7 +375,7 @@ print("aggregated_user created and data inserted successfully in SQL!")
 conn = psycopg2.connect(
     dbname="Phone_Pe",
     user="postgres",
-    password="dinhata",
+    password="yourPassword",
     host="localhost",
     port="5432"
 )
@@ -416,7 +416,7 @@ print("map_transactions created and data inserted successfully in SQL!")
 conn = psycopg2.connect(
     dbname="Phone_Pe",
     user="postgres",
-    password="dinhata",
+    password="yourPassword",
     host="localhost",
     port="5432"
 )
@@ -456,7 +456,7 @@ print("map_user created and data inserted successfully in SQL!")
 conn = psycopg2.connect(
     dbname="Phone_Pe",
     user="postgres",
-    password="dinhata",
+    password="yourPassword",
     host="localhost",
     port="5432"
 )
@@ -498,7 +498,7 @@ print("top_transaction created and data inserted successfully in SQL!")
 conn = psycopg2.connect(
     dbname="Phone_Pe",
     user="postgres",
-    password="dinhata",
+    password="yourPassword",
     host="localhost",
     port="5432"
 )
