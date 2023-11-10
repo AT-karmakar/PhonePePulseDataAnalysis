@@ -117,7 +117,7 @@ if SELECT == 'Basic Insights':
                 conn = psycopg2.connect(
                     dbname="Phone_Pe",
                     user="postgres",
-                    password="dinhata",
+                    password="yourpassword",
                     host="localhost",
                     port="5432"
                 )
@@ -174,7 +174,7 @@ if SELECT == 'Basic Insights':
             conn = psycopg2.connect(
                 dbname="Phone_Pe",
                 user="postgres",
-                password="dinhata",
+                password="yourpassword",
                 host="localhost",
                 port="5432"
             )
@@ -228,7 +228,7 @@ if SELECT == 'Basic Insights':
             conn = psycopg2.connect(
                 dbname="Phone_Pe",
                 user="postgres",
-                password="dinhata",
+                password="yourpassword",
                 host="localhost",
                 port="5432"
             )
@@ -292,7 +292,7 @@ if SELECT == 'Basic Insights':
             conn = psycopg2.connect(
                 dbname="Phone_Pe",
                 user="postgres",
-                password="dinhata",
+                password="yourpassword",
                 host="localhost",
                 port="5432"
             )
@@ -338,7 +338,7 @@ if SELECT == 'Basic Insights':
             conn = psycopg2.connect(
                 dbname="Phone_Pe",
                 user="postgres",
-                password="dinhata",
+                password="yourpassword",
                 host="localhost",
                 port="5432"
             )
@@ -384,7 +384,7 @@ if SELECT == 'Basic Insights':
             conn = psycopg2.connect(
                 dbname="Phone_Pe",
                 user="postgres",
-                password="dinhata",
+                password="yourpassword",
                 host="localhost",
                 port="5432"
             )
@@ -434,7 +434,7 @@ if SELECT == 'Basic Insights':
             conn = psycopg2.connect(
                 dbname="Phone_Pe",
                 user="postgres",
-                password="dinhata",
+                password="yourpassword",
                 host="localhost",
                 port="5432"
             )
@@ -473,7 +473,7 @@ if SELECT == 'Basic Insights':
                 conn = psycopg2.connect(
                     dbname="Phone_Pe",
                     user="postgres",
-                    password="dinhata",
+                    password="yourpassword",
                     host="localhost",
                     port="5432"
                 )
@@ -527,7 +527,7 @@ if SELECT == 'Basic Insights':
             conn = psycopg2.connect(
                 dbname="Phone_Pe",
                 user="postgres",
-                password="dinhata",
+                password="yourpassword",
                 host="localhost",
                 port="5432"
             )
@@ -572,7 +572,7 @@ if SELECT == 'Basic Insights':
                 conn = psycopg2.connect(
                     dbname="Phone_Pe",
                     user="postgres",
-                    password="dinhata",
+                    password="yourpassword",
                     host="localhost",
                     port="5432"
                 )
@@ -638,7 +638,7 @@ if SELECT == 'Home':
     conn = psycopg2.connect(
                 dbname="Phone_Pe",
                 user="postgres",
-                password="dinhata",
+                password="yourpassword",
                 host="localhost",
                 port="5432"
             )
